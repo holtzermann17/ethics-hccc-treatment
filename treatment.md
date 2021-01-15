@@ -3,13 +3,12 @@
 Introduction
 ============
 
-The aim of this short note is to understand the ethics of “Human
-Computer Interaction”.  By bringing together philosophical sources and
-existing references to ethics in HCI, we aim to develop a set of
-salient ethical guidelines for researchers and practitioners.  We
-consider ethics not simply in terms of abstractions like trolley
-problems, but with an eye to concrete applications within in 'hybrid'
-systems.
+This short note proposes an ethics of “Human Computer Interaction”.
+By bringing together philosophical sources and existing references to
+ethics in HCI, we aim to develop a set of salient ethical guidelines
+for researchers and practitioners.  We consider ethics not simply in
+terms of abstractions like trolley problems, but with an eye to
+concrete applications within in 'hybrid' systems.
 
 Our motivation is that we've clearly entered into a new historical
 era, whether we think of it as the anthropocene, the information age,
