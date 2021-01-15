@@ -75,7 +75,8 @@ following thematic areas:
 - panpsychism, buddhism, animism, ubuntu: all universe is alive and updating materialism - which not necessarily might be eastern but bridge with what doesnt exist
 
 ## Responses in the computing literature
-- TBA
+- E.g., Japanese robots as a reflection on Shinto religion
+- ‘Ubuntu’ is the name of a popular GNU/Linux distribution
 
 # *§3.0* Phenomenology and being
 - Husserl
