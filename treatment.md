@@ -1,70 +1,65 @@
-# DRAFT_HCCC Ethics paper treatment
+Title of the Ethics Paper
+============
 
 Introduction
 ============
 
-This short note proposes an ethics of “Human Computer Interaction”.
-By bringing together philosophical sources and existing references to
-ethics in HCI, we aim to develop a set of salient ethical guidelines
-for researchers and practitioners.  We consider ethics not simply in
-terms of abstractions like trolley problems, but with an eye to
-concrete applications within in 'hybrid' systems.
+This article proposes an ethics of “Human Computer Interaction”. By bringing together philosophical sources and existing references to ethics in HCI, we aim to develop a set of salient ethical guidelines for researchers and practitioners. The development of such a project stems from 1) a need to cement the existing understanding of the use of computer technologies and 2) offer a position that can be used holistically in the use of intelligent systems as members of society.
 
 Our motivation is that we've clearly entered into a new historical
-era, whether we think of it as the anthropocene, the information age,
-or indeed the Novacene (Lovelock).  Many of the historically-novel
-aspects of our current existence can be seen as the legacy of the
-industrial revolution: however computers have played a significant and
-increasing role since their introduction.  Whereas there are mature
-paradigms for interaction *using* computers (e.g., Wikipedia), the
-paradigms of interacting *with* computers (e.g., Cambridge Analytica)
-continue to raise problematic issues.  At the same time, there are
-many unsolved problems that humans together with computers are working
-to address (e.g., climate change)!  To ameliorate the harms and
-capitalise on the benefits, we need a way to understand human-computer
-interaction ‘at scale’.
+era, whether we think of it as the anthropocene, the information age, or indeed the Novacene (Lovelock).  Many of the historically-novel aspects of our current existence can be seen as the legacy of the industrial revolution: however computers have played a significant and increasing role since their introduction.  Whereas there are mature paradigms for interaction *using* computers (e.g., Wikipedia), the paradigms of interacting *with* computers (e.g., Cambridge Analytica) continue to raise problematic issues.  At the same time, there are many unsolved problems that humans together with computers are working to address (e.g., climate change)!  To ameliorate the harms and capitalise on the benefits, we need a way to understand human-computer interaction ‘at scale’.
 
 Method
 ======
 
-We survey references to philosophy within computing literature and
-references to computing within philosophy, focusing on ethics.  Based
-on aligning this material we propose ethical guidelines.
+We survey references to philosophy within computing literature and references to computing within philosophy, focusing on ethics. Based on aligning this material we propose ethical guidelines - which in themselves present a worldview.
 
 Scope
 =====
 
-*Human-computer cocreativity* (HCCC) is a motivating domain. In HCCC,
-creativity is attributed to collectives.  Here, we want to look in
-more detail at what what humans co-create computational media.  While
-our focus is on modern computing machinery, in order to cast a wide
-net we think about computers as ‘effective systems’, or even just as
-machinery.  Our primary questions:
+*Human-computer cocreativity* (HCCC) is a motivating domain. In HCCC, creativity is attributed to collectives.  Here, we want to look in more detail at what what humans co-create computational media.  While our focus is on modern computing machinery, in order to cast a wide net we think about computers as ‘effective systems’, or even just as machinery.  Our survey will look both philosophical and computing work within the following thematic areas:
 
-1.  What should we understand by ‘an ethical use of computer
-    technology’?
+**Why do we need this?** — TBA
 
-2.  How can our reflections on HCI and HCCC build a foundation for the
-    ethical uses of intelligence?
+Our primary questions:
 
-Our survey will look both philosophical and computing work within the
-following thematic areas:
+1.  What should we understand by ‘an ethical use of computer technology’?
+2.  How can our reflections on HCI and HCCC build a foundation for the ethical uses of intelligence?
+
 (*§1.0*) Western philosophy and ethics definition.
 (*§2.0*) Relating western to nonwestern practices.
 (*§3.0*) Phenomenology and being.
 (*§4.0*) Embodied cognition, social intelligence, collective intelligence.
 (*§5.0*) Reprise: Evolution regarding all of these.
 
-# *§1.0* Western philosophy and ethics definition 
-- Classical perspectives on Ethics
-- go deep maybe into pre-aristotle
-- Aristotelian vs Platonic
+# *1.0* Western philosophy and ethics definition 
+
+
+Human beings have always been interested in categorizing their behaviour. Classification and criticism, personal and interpersonal, about actions taken towards the world. When this criticism is made, there is no way that it will not be realized subjectively (lens argument), even if it embraces generalization. This recursive feedback to outselves has allowed the analysis and assessment of actions that we deem meaningful - or that others consider significant in us - originating fundamental positions for human understanding from the human. It is not in vain that *ethics* derives from the Greek "ēthikós" (ἠθικός) that means "relating to one's character" - as a relational loop.
+
+This behaviour multiplies. Just as I consider myself, I can imagine the way others consider me, consider them, and develop collaborative processes for all this. Right here comes ethics and the way it will happen in society. For instance:
+
+- **1)** (1785) Kant (Johnson and Cureton 2004) proposed that the fundamental principle of our moral duties is a categorical imperative. 
+- **2)** (2018) (Noa Naaman-Zauderer) both Descartes and Spinoza thinkers define virtue in terms of activity or freedom, mutatis mutandis, and thus in terms of actual power of acting. Second, I will claim that both Descartes and Spinoza hold a non-consequentialist approach to virtue, by which human actions are evaluated as virtuous or good on the basis of their motivational forces rather than their consequences
+-  
+
+[https://plato.stanford.edu/entries/ethics-ancient/ ](/xZCXvatGRw2CA5FwoBjYIQ)
+
+
+We stand on top of Paul and Elder (2003) and define ethics as: **a nondetermined set of concepts, principles and metarules that guide us in determining what behavior (acting towards) helps and/or harms sentient creatures.** Having a fundamental but abstract definition that allows us to develop ethics helps to create a relationship structure.
+
+
+
+
 - Spinoza: virtue is capacity for action
 - Kant and the categorical imperative
-- David Hume on the problem of induction
 - Maybe talk about the authors that break down cognitivism and agree or not - dualists, functionalists, materialists etc
 - “[Creative evolution](https://plato.stanford.edu/entries/bergson/#CreaEvol)” from Bergson
 - **Where do we stop this section** and move to the other more modern stuff?
+- - Utalitarianism - The theory that the “right” moral act is the one that produces the greatest good for society. (connect this with technology)
+- Hans Vaihinger - Die Philosophie des Als Ob : Vaihinger comes to view Kant’s doctrine of the essential limits of our cognition through this Schopenhauerian-Darwinian lens: the “limitations of human knowledge,” he says, are “a necessary and natural result of the fact that thought and knowledge are originally only a means, to attain the Life-purpose, so that their actual independence signifies a breaking-away from their original purpose; indeed, by the fact of this breaking-loose, thought is confronted by impossible problems” (PAO xviii). Vaihinger will use this idea to motivate his own fictionalism, and to provide a radical reinterpretation of Kantianism.
+
+
 
 ## Responses in the computing literature
 - Anna Kantosalo and Ben Schneiderman (using computers to think about ‘creativity’)
@@ -80,7 +75,7 @@ following thematic areas:
 
 # *§3.0* Phenomenology and being
 - Husserl
-- Heidegger
+- Heidegger (I think we need to criticize Kant and the rational here)
 - What is it to be alive?
 - preontology
 - be careful to connect this - being and everything - with ethics - Wittgenstein (ethics and aesthetics are one and the same)
@@ -117,17 +112,25 @@ following thematic areas:
 - Evolutionary computing
 - Metacognition and ethical judgement - (maybe connect to the title here, and bring cognitive psychology to the discussion (behaviour))
 - Modelling ethics and cognition
-- Predictive Processing and Active Inference (bring embodiment to the discussion here)
+-Untitled-1 Predictive Processing and Active Inference (bring embodiment to the discussion here)
 - "Ethical AI": Notice that now that computers are involved, the way we think about ethics and so on is likely to change.
 
-# Case studies
+# Illustrations
 
 We can comment on, e.g.. *Mathematical creativity* and *Logseq and
-friends* (Zettlekasten method and second brains).
+friends* (Zettlekasten method and second brains), maybe also *Computational Creativity*.
 
+- use MC as an example on the ethical baggage - ACM community - creativity as AN/1 example
 - Machines Who Think: A Personal Inquiry into the History and Prospects of Artificial Intelligence
+- Ben Goetzel: 2 mindsets? AGI, Computational Neuroscience
+- Luis: program a bot that can teach me math / Nic FFT equation; process philosophy as a generalisation of this? 
 
 ## Mathematical creativity
+
+They say that Gauss was the last person who knew all of mathematics.
+
+- David Hume on the problem of induction
+
 
 ### Section introduction: Objectives
 
@@ -181,12 +184,7 @@ Factors in Computing Systems, ACM, 11--20.
 
 # Discussion
 
-Have we learned anything that's relevant for practice? Maybe here is a
-good time to return to some of the debates that look at "creativity"
-in a more mainstream sense, e.g., Anna Kantosalo and Ben Schneiderman
-about creative systems and social inclusion vs exclusion? From the
-point of view of "Methods", hopefully we will have clarified at the
-start why we think this sort of activity could lead to new insights!
+Have we learned anything that's relevant for practice? Maybe here is a good time to return to some of the debates that look at "creativity" in a more mainstream sense, e.g., Anna Kantosalo and Ben Schneidermanabout creative systems and social inclusion vs  exclusion? From the point of view of "Methods", hopefully we will have clarified at the start why we think this sort of activity could lead to new insights!
 
 ## Related work
 Existing books about "creativity and ethics" and "technology and virtues" don't quite cut the mustard
@@ -236,8 +234,28 @@ right now, and perhaps even speculate a bit about its future!
 # Conclusions
 Hopefully we can answer these questions:
 
-1.  How can I practically engage with these issues as a computer science researcher?
-2.  Tech design and CS thinking: creativity as mirror of ethical principles?
-3.  Research Ethics, Practitioner Ethics, relating to other forms of Professional Ethics
-4.  Interfaces and establishing relationships between people and things?
-5.  How do I relate to knowledge, and with/to the whole body of historical philosophy, science, inquiry, and maybe AI and tech systems?
+1. **How can I practically engage with these issues as a computer science researcher?**
+2. - as a researcher how can I fit inside an ethical framework without disrupting my day-to-day way of work, that in itself guides me as a railway. 
+3. **Tech design and CS thinking: creativity as mirror of ethical principles?**
+4. **Research Ethics, Practitioner Ethics, relating to other forms of Professional Ethics**
+5. **Interfaces and establishing relationships between people and things?**
+6. **How do I relate to knowledge, and with/to the whole body of historical philosophy, science, inquiry, and maybe AI and tech systems?**
+
+# References
+
+Johnson, Robert, and Adam Cureton. "Kant’s moral philosophy." (2004).
+
+Kant, Immanuel. "Groundwork of the metaphysics of morals.(1785)." (1785): 33.
+
+Paul, Richard, and Linda Elder. "Ethical reasoning." Dillon Beach, CA: The Foundation for Critical Thinking (2003).
+
+
+
+
+##
+#### notes that existed b4
+- Classical perspectives on Ethics (1.0)
+- go deep maybe into pre-aristotle (1.0)
+- Aristotelian vs Platonic (1.0)
+
+
