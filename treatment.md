@@ -28,14 +28,15 @@ The paper as a whole focuses on the following questions:
 4.  And, lastly: what is the overall narrative or genre in which these
     questions can be discussed and pursued further?
 
-[How do we use ethics](how_do_we_use_ethics.org)
+**Further notes:**
 
-[Motivation](motivation.org)
+- [How do we use ethics](https://logseq.com/#/page/How%20do%20we%20use%20ethics)
+- [Motivation](https://logseq.com/#/page/Motivation)
 
 Method
 ------
 
-We survey references to ethics and philosophy within computing literature --- along with references to technology, machinery, and computing within philosophy. Based on aligning this material we propose first a taxanomy and then a set of ethical guidelines.
+We survey references to ethics and philosophy within computing literature --- along with references to technology, machinery, and computing within philosophy. Based on aligning this material we propose first a taxonomy and then a set of ethical guidelines.
 
 Our aim is not completeness but robustness. On the one hand we attempt to account for the pervasive use of information and communication technology (ICT), and the potential future development of artificial intelligence.
 
@@ -51,7 +52,7 @@ At the outset, our initial framework-for-the-framework recapitulates the divisio
 Scope
 -----
 
-Corresponding to the broad aims outlined above, alongside HCI, *Human-Computer Cocreativity* (HCCC) and *Computational Social Creativity* (CSC) are inspiring domains. In HCCC, creativity is attributed to collectives; CSC embeds models of social creativity within computational systems. Our aim will be to look in more detail at what what humans co-create with computational media. While our focus is on modern computing machinery, in order to cast a wide net we think about computers as 'effective systems' or even just as tools or machinery.  Tools and language have been with us since the dawn of humankind.
+Corresponding to the broad aims outlined above, alongside HCI, *Human-Computer Cocreativity* (HCCC) and *Computational Social Creativity* (CSC) are inspiring domains. In HCCC, creativity is attributed to collectives; CSC embeds models of social creativity within computational systems. Our aim will be to look in more detail at what humans co-create with computational media. While our focus is on modern computing machinery, in order to cast a wide net we think about computers as 'effective systems' or even just as tools or machinery.  Tools and language have been with us since the dawn of humankind.
 
 1.0 Philosophical foundation for a contemporary ethical practice
 ====================================================================================
@@ -65,28 +66,30 @@ To address this question properly we need to understand the key concepts.
 1.1 Western philosophy and ethics definition
 --------------------------------------------
 
-Human beings have always been interested in categorizing their behaviour. Classification and criticism, personal and interpersonal, about actions taken towards the world. When this criticism is made, there is no way that it will not be realized subjectively (lens argument), even if it embraces generalization. This recursive feedback to outselves has allowed the analysis and assessment of actions that we deem meaningful - or that others consider significant in us - originating fundamental positions for human understanding from the human. It is not in vain that *ethics* derives from the Greek \"ēthikós\" (ἠθικός) that means \"relating to one\'s character\" - as a relational loop. Indeed, a deeper etymology points to both habit and environment; ἤθεα meaning \"accustomed place\" (as in ἤθεα ἵππων --- \"the habitat of horses\", Iliad, 6.51115.265). This points to an \"ethological\" side of \"ethics\", which is pursued, e.g., by Spinoza (as per Deleuze\'s reading). Importantly, our environments include *others* and provide grounds for interaction. Just as I consider myself, I can imagine the way others consider me, consider them, and develop collaborative processes for all this. Right here comes ethics and the way it will happen in society. Paul and Elder (2003) define *ethics* as: a nondetermined set of concepts, principles and metarules that guide us in determining what behavior (acting towards) helps and/or harms sentient creatures. Taking this as our working definition of 'ethics' allows us to develop ethics helps to create a relationship structure.
+Human beings have always been interested in categorizing their behaviour. Classification and criticism, personal and interpersonal, about actions taken towards the world. When this happens, there is no way that it will not be realized subjectively (lens argument), even if it embraces generalization. This recursive feedback to ourselves has allowed the analysis and assessment of actions that we deem meaningful, or that others consider significant in us. It originates fundamental positions towards global human understanding. It is not in vain that *ethics* derives from the Greek \"ēthikós\" (ἠθικός) that means \"relating to one\'s character\" - as a relational loop. Indeed, a deeper etymology points to both habit and environment; ἤθεα meaning \"accustomed place\" (as in ἤθεα ἵππων --- \"the habitat of horses\", Iliad, 6.51115.265). This points to an \"ethological\" side of \"ethics\", which is pursued, e.g., by Spinoza (as per Deleuze\'s reading). Importantly, our environments include *others* and provide grounds for interaction or collaboration. Just as we *consider* ourselves, we imagine the way others consider us. We consider them, and even develop collaborative processes for all this. In these exact moments, ethical maps come in. Maps that fundamentally define society. Paul and Elder (2003) define *ethics* as: a nondetermined set of concepts, principles and metarules that guide us in determining what behavior (acting towards) helps and/or harms sentient creatures. Taking this as our working definition of 'ethics' allows us to create a relationship structure.
 
-[1.A](https://logseq.com/page/1.a)
+**Further notes:**
 
-[Phenomenology and being](https://logseq.com/page/phenomenology%20and%20being)
-
-[Ethics and Ethology in Homer](https://logseq.com/page/ethics%20and%20ethology%20in%20homer)
+- [1.A](https://logseq.com/page/1.a)
+- [Phenomenology and being](https://logseq.com/page/phenomenology%20and%20being)
+- [Ethics and Ethology in Homer](https://logseq.com/page/ethics%20and%20ethology%20in%20homer)
 
 ### 1.1.1 Responses in computing literature
 
-These days, given the transmutation of information and increased reception of things around us, technology can even help us to revive and rethink the way these thoughts affect us culturally. For example the work of Kantosalo and Schneiderman: using computers to help us \"think\" about creativity. (Anna Kantosalo and Ben Schneiderman (using computers to think about 'creativity'))
+These days, given the transmutation of information and increased reception of things around us, technology can even help us to revive and rethink the way these thoughts affect us culturally. For example the work of Kantosalo and Schneiderman: using computers to help us \"think\" about creativity. (Anna Kantosalo and Ben Schneiderman (using computers to think about 'creativity')).
 
 1.2 Holistic views of philosophy
 --------------------------------
 
-Philosophy is inherent in the complexity and uniqueness of each culture.  When applied from a broad point of view and not only focused on the human, it can conquer and integrate as its baggage other types of entities such as artificial intelligences or non-human organisms. As is the example of panpsychism (Seager 2006), where it is common to have a naturalistic account of the world, for only from the point of view of some such account can the issue of mind\'s place within the natural world arise. Even the *philosophy of mind* has in itself a position. Not only as a philosophy, but as a starting point for philosophy to begin.  There is a beginning that points to a vision in which all the positions taken before that thought make sense. When using positions that are global in terms of beings that exist, an ethical framework forces us to consider computers as *creatures*.
+Philosophy is inherent in the complexity and uniqueness of each culture.  When applied from a broad point of view and not only focused on the human, it can conquer and integrate as its baggage other types of entities such as artificial intelligences or non-human organisms. As is the example of russellian monism (Alter) and contemporary panpsychism (Koch) applications. To have a naturalistic, inclusive and open account of the world helps build a more universal and foundational understanding of ethics. Human *philosophy* has always a starting position, the human. It is the starting point for philosophy to begin with. It may anthropomorphize and humanize. One can even say that all human views are human centered (POM). But even if we make our peace with the fact that this view has limits, we should never forget that it points somewhere. We can hope to open the angle and see the world globally, as long as we can. We can try to grasp everything there is, biological organisms and metal robots, and build a theory that makes *sense*. This brings an architectural point of view into the argument. We start to understand the world as structures of structures. As a universal environment in which there are entities that act, exist and interact. For this, a global ethical framework forces us to consider computers as a specific *type* of structure inside that world. If the ethical map allows, maybe as *creatures*.
 
-[Holistic views of philosophy](https://logseq.com/page/holistic%20views%20of%20philosophy)
+**Further notes:**
+
+- [Holistic views of philosophy](https://logseq.com/page/holistic%20views%20of%20philosophy)
 
 ### 1.2.1 Responses in the computing literature
 
-Given the holistic point of view, which in itself is linked to space and context - the reflections made today often map the past. The way we relate - to each other, to artificial elements and the environment - is what has been driving us, we might want not only to map but also revisit past.
+Given the open, universal and inclusive point of view - which in itself is linked to space and context - the reflections made today often map the past. The way we relate to each other, to artificial elements and the environment, is what has been driving us. We might want not only to map but also revisit past. The embodiment demonstrates that, the *what does it feel like* (Nagel). That is something we only know when we know, and comes exactly from that relation.
 
 2.0 Embodied cognition, social intelligence, collective intelligence
 ========================================================================================
@@ -138,9 +141,10 @@ Histories of the evolution of intelligence (sociality & tools being key focal po
 
 Based on the points raised as discussion in the previous sections mention until what point evolution plays a or the major role. How future AIs will encompass some of the evolutionary paradigms we faced and how our ethics project will not be ruined in future decades - getting to the point where evolution might be quicker virtually (as a *type* of evolution).
 
-[Language is mapping thinking](language_is_mapping_thinking.org)
+**Further notes:**
 
-[Evolution](evolution.org)
+- [Language is mapping thinking](https://logseq.com/#/page/Language%20is%20mapping%20thinking)
+- [Evolution](https://logseq.com/#/page/Evolution)
 
 Responses in the computing literature
 -------------------------------------
@@ -179,25 +183,31 @@ This is clearly germane, and we can go further with reference to \"systems with 
 
 Hopefully we can provide some new insights here.
 
-[Case studies reprise](case_studies_reprise.org)
+**Further notes:**
+
+- [Case studies reprise](https://logseq.com/#/page/Case%20studies%20reprise)
 
 Related work
 ------------
 
 Alongside philosophers of technology mentioned in the Introduction, we can point to more popularly-oriented books such as (\"Creativity and Ethics\", \"Technology and the virtues: A philosophical guide to a future worth wanting\", \"Made by Humans\", \"Machines that Think\", \"How AI can be a force for good\" --- and connect all these topics with political, scientific and visionary points that authors made in time.
 
-[Philosophy of technology](philosophy_of_technology.org)
+**Further notes:**
 
-<https://sigchi.org/ethics-committee/>
+- [Philosophy of technology](https://logseq.com/#/page/Philosophy%20of%20technology)
+- <https://sigchi.org/ethics-committee/>
 
 Conclusions and Future work
 ===========================
 
-In addition to the questions in the introduction, as a result of the theoretical work developed here we sohuld be able to offer at least tentative answers to the following questions: **1)** **How can I practically engage with these issues as a computer science researcher?**; **2)** What are future steps and possibilities to research ethics, to practice ethics and relate this to other ethics roles (as we did in all the text) (e.g maybe also at the governmental level; **3)** **How do interfaces and other concrete-relationships-between-people-and-things** embodied behavior and its limits for ethics (where our theory becomes virtual and link to haraway); **4)** *How do I relate to knowledge*, what it means to know or to cognise; with/to the whole body of historical philosophy, science, inquiry, and maybe AI and tech systems?
+In addition to the questions in the introduction, as a result of the theoretical work developed here we should be able to offer at least tentative answers to the following questions: **1)** **How can I practically engage with these issues as a computer science researcher?**; **2)** What are future steps and possibilities to research ethics, to practice ethics and relate this to other ethics roles (as we did in all the text) (e.g maybe also at the governmental level; **3)** **How do interfaces and other concrete-relationships-between-people-and-things** embodied behavior and its limits for ethics (where our theory becomes virtual and link to haraway); **4)** *How do I relate to knowledge*, what it means to know or to cognise; with/to the whole body of historical philosophy, science, inquiry, and maybe AI and tech systems?
 
 If nothing else this should be seen as an alternative to \"Ethical AI\" as it is currently practiced (either as governance of real-world systems or imagining the future). By focusing on interaction we mean to develop a route to ongoing improvementment to HCI ethics overall (in an eternal golden braid!).
 
-[Conclusion](conclusion.org)
+**Further notes:**
+
+- [Conclusion](https://logseq.com/#/page/Conclusion)
+
 
 
 
